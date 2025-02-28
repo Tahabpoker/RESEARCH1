@@ -1,3 +1,5 @@
 chest_xray/
 test.*
 *.h5
+model/
+
